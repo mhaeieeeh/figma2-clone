@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+.flex-container {
+    background-image: url(images/image1.png);
+    height: 715px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+ 
+}
+
+.flex-container2 {
+    background: linear-gradient(to right, #351c31,#030414);
+   
+
+}
+
+.flex-container2 img {
+    width: 100%;
+    height: auto;
+    padding: 100px;
+}
